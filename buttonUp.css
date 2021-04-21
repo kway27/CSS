@@ -1,0 +1,34 @@
+#container {
+    width: 200px;
+}
+#search button {
+    width: 150px;
+    color:rgb(13, 170, 154);
+    background-color: ghostwhite;
+    border-color: rgb(44, 219, 202);
+    border-radius: 25px;
+    margin:10px;
+    padding:5px;
+    font-weight: bold;
+    font-size: 15px;;
+}
+#box2 button {
+    border-radius: 50%;
+    background-color: rgb(71, 241, 224);
+    border-color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    color: white;
+    font-size: 25px;
+
+}
+#box3 button {
+    box-shadow: 3px 3px black;
+    width:  150px;
+    border-color:black;
+    border-width: 3px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(46, 127, 219);
+    margin: 10px;
+}
